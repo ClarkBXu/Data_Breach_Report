@@ -22,7 +22,7 @@ re, numpy, pandas, matplotlib, wordcloud, sklearn
 
 ## Details
 Jupyter Notebook Name: <br>
-Data_Breach_Report.ipynb
+Data_Breach_Report_Clark_Xu.ipynb
 
 Jupyter Notebook Input: <br>
 Data Breaches - Raw Data.csv
