@@ -7,7 +7,7 @@ Clark Xu - November 17, 2022
 ## Purpose
 The Jupyter Notebook steps through library install; data load, exploration, cleaning, validation, analysis, visualization; and insights presentation. Exercise in industry reporting.
 
-Re documented at: <br>
+Re documented at: https://docs.python.org/3/library/re.html <br>
 NumPy documented at: https://numpy.org/doc/stable/contents.html <br>
 Pandas documented at: https://pandas.pydata.org/pandas-docs/stable/ <br>
 Matplotlib documented at: https://matplotlib.org/stable/index.html <br>
